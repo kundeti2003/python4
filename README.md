@@ -1,1 +1,2 @@
-# python4
+names=["venkat","mani","kanta"]
+print(names)
